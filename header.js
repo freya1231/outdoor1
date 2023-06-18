@@ -3,10 +3,10 @@ let appHeader = `
       <nav>
       <div class="menu-area">
     <ul>
-        <li><a href="/Users/tarabartnik/Documents/coding/repos/outdoor1/index.html">Home</a></li>
-        <li><a href="/Users/tarabartnik/Documents/coding/repos/outdoor1/activities/activities.html">Activities</a>
+        <li><a href="/index.html">Home</a></li>
+        <li><a href="/activities.html">Activities</a>
             <ul class="dropdown-1">
-                <li><a href="/Users/tarabartnik/Documents/coding/repos/outdoor1/activities/hike.html">Walks and hiking</a>
+                <li><a href="/activities/hike.html">Walks and hiking</a>
                         <ul class="dropdown-2">
                             <li><a href="/Users/tarabartnik/Documents/coding/repos/outdoor1/activities/hike/day-hikes.html">Day-trip walks and hikes</a></li>
                             <li><a href="/Users/tarabartnik/Documents/coding/repos/outdoor1/activities/hike/overnight-hikes.html">Overnight hikes</a></li>
