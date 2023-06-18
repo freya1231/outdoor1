@@ -4,7 +4,7 @@ let appHeader = `
       <div class="menu-area">
     <ul>
         <li><a href="https://freya1231.github.io/outdoor1/index.html">Home</a></li>
-        <li><a href="https://freya1231.github.io/outdoor1/activities.html">Activities</a>
+        <li><a href="https://freya1231.github.io/outdoor1/activities/activities.html">Activities</a>
             <ul class="dropdown-1">
                 <li><a href="https://freya1231.github.io/outdoor1/activities/hike.html">Walks and hiking</a>
                         <ul class="dropdown-2">
