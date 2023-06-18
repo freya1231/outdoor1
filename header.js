@@ -3,12 +3,12 @@ let appHeader = `
       <nav>
       <div class="menu-area">
     <ul>
-        <li><a href="https://freya1231.github.io/outdoor1//index.html">Home</a></li>
-        <li><a href="https://freya1231.github.io/outdoor1//activities.html">Activities</a>
+        <li><a href="https://freya1231.github.io/outdoor1/index.html">Home</a></li>
+        <li><a href="https://freya1231.github.io/outdoor1/activities.html">Activities</a>
             <ul class="dropdown-1">
-                <li><a href="https://freya1231.github.io/outdoor1//activities/hike.html">Walks and hiking</a>
+                <li><a href="https://freya1231.github.io/outdoor1/activities/hike.html">Walks and hiking</a>
                         <ul class="dropdown-2">
-                            <li><a href="/https://freya1231.github.io/outdoor1/activities/hike/day-hikes.html">Day-trip walks and hikes</a></li>
+                            <li><a href="https://freya1231.github.io/outdoor1/activities/hike/day-hikes.html">Day-trip walks and hikes</a></li>
                             <li><a href="https://freya1231.github.io/outdoor1/activities/hike/overnight-hikes.html">Overnight hikes</a></li>
                             <li><a href="https://freya1231.github.io/outdoor1/outdoor1/activities/hike/London-walks.html">London based walks</a></li>
                         </ul>
