@@ -1,10 +1,7 @@
-//if(window.location.href.includes('/cycle/'||'/blogs/'||'/camp/'||'/hike/'||'/stay/'||'/water/'||'/wellness/'||'/wildflife/')) 
-
-
-if(window.location.href.includes('/cycle/')||window.location.href.includes('/camp/')||window.location.href.includes('/hike/')||window.location.href.includes('/stay/')||window.location.href.includes('/water/')||window.location.href.includes('/wellness/')||window.location.href.includes('/wildlife/')||window.location.href.includes('/blogs/')) 
+if(window.location.href.includes('/camp/'||'/blogs/'||'/cycle/'||'/hike/'||'/stay/'||'/water/'||'/wellness/'||'/wildflife/')) 
 {
 
-let appHeader = `
+let appHeader1 = `
       <div class="title1"><h1>Outdoor micro-holidays from London</h1></div>
       <nav>
       <div class="menu-area">
@@ -45,7 +42,7 @@ let appHeader = `
                         </ul>
                 </li>
                 
-                <li><a href="../stay/nature-stays.html">Nature stays</a>
+                <li><a href="../stays/nature-stays.html">Nature stays</a>
                         <ul class="dropdown-2">
                             <li><a href="../stay/x1.html">Shepherd's huts</a></li>
                             <li><a href="../stay/x2.html">Cottages</a></li>
@@ -76,12 +73,12 @@ let appHeader = `
     </ul>
 </nav>
 `;
-document.getElementById("app-header").innerHTML = appHeader;
+document.getElementById("app-header1").innerHTML = appHeader1;
 } 
 else 
 {
 
-    let appHeader = `
+    let appHeader1 = `
     <div class="title1"><h1>Outdoor micro-holidays from London</h1></div>
         <nav>
         <div class="menu-area">
@@ -122,7 +119,7 @@ else
                           </ul>
                   </li>
                   
-                  <li><a href="./stay/nature-stays.html">Nature stays</a>
+                  <li><a href="./stays/nature-stays.html">Nature stays</a>
                           <ul class="dropdown-2">
                               <li><a href="./stay/x1.html">Shepherd's huts</a></li>
                               <li><a href="./stay/x2.html">Cottages</a></li>
@@ -154,5 +151,7 @@ else
   </nav>
   `;
 
-  document.getElementById("app-header").innerHTML = appHeader;
+  document.getElementById("app-header1").innerHTML = appHeader1;
 }
+
+
